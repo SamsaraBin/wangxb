@@ -11,6 +11,7 @@ public class text06 {
         System.out.println("请输入分数");
         int score = sc.nextInt();
         if (score>=90){
+            System.out.println("dssds");
             System.out.println("A");
         }else if (score>=80&&score<90){
             System.out.println("B");
